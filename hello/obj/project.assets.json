@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\duyen\\OneDrive\\Máy tính\\testthoi\\hello\\hello\\hello.csproj",
+      "projectUniqueName": "C:\\Users\\duyen\\OneDrive\\Máy tính\\hu\\hello\\hello.csproj",
       "projectName": "hello",
-      "projectPath": "C:\\Users\\duyen\\OneDrive\\Máy tính\\testthoi\\hello\\hello\\hello.csproj",
+      "projectPath": "C:\\Users\\duyen\\OneDrive\\Máy tính\\hu\\hello\\hello.csproj",
       "packagesPath": "C:\\Users\\duyen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\duyen\\OneDrive\\Máy tính\\testthoi\\hello\\hello\\obj\\",
+      "outputPath": "C:\\Users\\duyen\\OneDrive\\Máy tính\\hu\\hello\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
