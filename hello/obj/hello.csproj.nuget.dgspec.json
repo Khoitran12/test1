@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duyen\\OneDrive\\Máy tính\\hu\\hello\\hello.csproj": {}
+    "C:\\Users\\duyen\\OneDrive\\Máy tính\\testingg\\hello\\hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duyen\\OneDrive\\Máy tính\\hu\\hello\\hello.csproj": {
+    "C:\\Users\\duyen\\OneDrive\\Máy tính\\testingg\\hello\\hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duyen\\OneDrive\\Máy tính\\hu\\hello\\hello.csproj",
+        "projectUniqueName": "C:\\Users\\duyen\\OneDrive\\Máy tính\\testingg\\hello\\hello.csproj",
         "projectName": "hello",
-        "projectPath": "C:\\Users\\duyen\\OneDrive\\Máy tính\\hu\\hello\\hello.csproj",
+        "projectPath": "C:\\Users\\duyen\\OneDrive\\Máy tính\\testingg\\hello\\hello.csproj",
         "packagesPath": "C:\\Users\\duyen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duyen\\OneDrive\\Máy tính\\hu\\hello\\obj\\",
+        "outputPath": "C:\\Users\\duyen\\OneDrive\\Máy tính\\testingg\\hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
